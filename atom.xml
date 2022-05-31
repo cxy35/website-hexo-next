@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>明桂咖啡</title>
+  
+  <subtitle>明桂咖啡官方网站上线了</subtitle>
+  <link href="/website-hexo-next/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-09T04:00:20.077Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>明桂咖啡</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试发布系统</title>
+    <link href="http://yoursite.com/2019/09/05/%E6%B5%8B%E8%AF%95%E5%8F%91%E5%B8%83%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://yoursite.com/2019/09/05/测试发布系统/</id>
+    <published>2019-09-05T03:07:19.000Z</published>
+    <updated>2019-09-09T04:00:20.077Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><h4 id="这是四级标题"><a href="#这是四级标题" class="headerlink" title="这是四级标题"></a>这是四级标题</h4><h5 id="这是五级标题"><a href="#这是五级标题" class="headerlink" title="这是五级标题"></a>这是五级标题</h5><h6 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="这是六级标题"></a>这是六级标题</h6><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><em>这是倾斜的文字</em></p><p><strong>这是加粗的文字</strong></p><p><strong><em>这是斜体加粗的文字</em></strong></p><p><del>这是加删除线的文字</del></p><a id="more"></a><h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><blockquote><p>这是引用的内容</p></blockquote><blockquote><blockquote><p>这是引用的内容</p></blockquote></blockquote><blockquote><blockquote><blockquote><p>这是引用的内容</p></blockquote></blockquote></blockquote><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><hr><hr><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=85361d4a1bce36d3b6098b625b9a51e2/6609c93d70cf3bc741be2c7cdf00baa1cc112ae0.jpg" alt="这是图片的替代文本alt" title="这是图片的标题title"></p><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p><a href="https://jianshu.com" target="_blank" rel="noopener">简书</a></p><p><a href="https://baidu.com" title="这是超链接的标题title" target="_blank" rel="noopener">百度</a></p><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><ul><li>无序列表1</li><li>无序列表1</li></ul><ul><li>无序列表2</li><li>无序列表2</li></ul><ul><li>无序列表3</li><li>无序列表3</li></ul><ol><li><p>有序列表</p></li><li><p>有序列表</p></li><li><p>列表嵌套<br>1.1 列表嵌套<br>1.2 列表嵌套</p></li></ol><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="left">姓名</th><th align="center">技能</th><th align="right">排行</th></tr></thead><tbody><tr><td align="left">文字默认居左</td><td align="center">-两边加:表示文字居中</td><td align="right">-右边加:表示文字居右</td></tr><tr><td align="left">刘备</td><td align="center">哭哭哭</td><td align="right">大哥</td></tr><tr><td align="left">关羽</td><td align="center">打打打</td><td align="right">二哥</td></tr><tr><td align="left">张飞</td><td align="center">骂骂骂</td><td align="right">三弟</td></tr></tbody></table><h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p><code>单行代码</code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br><span class="line">$ hexo server</span><br><span class="line">$ hexo generate</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><h1 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;这是一级标题&quot;&gt;&lt;a href=&quot;#这是一级标题&quot; class=&quot;headerlink&quot; title=&quot;这是一级标题&quot;&gt;&lt;/a&gt;这是一级标题&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;&lt;a href=&quot;#这是二级标题&quot; class=&quot;headerlink&quot; title=&quot;这是二级标题&quot;&gt;&lt;/a&gt;这是二级标题&lt;/h2&gt;&lt;h3 id=&quot;这是三级标题&quot;&gt;&lt;a href=&quot;#这是三级标题&quot; class=&quot;headerlink&quot; title=&quot;这是三级标题&quot;&gt;&lt;/a&gt;这是三级标题&lt;/h3&gt;&lt;h4 id=&quot;这是四级标题&quot;&gt;&lt;a href=&quot;#这是四级标题&quot; class=&quot;headerlink&quot; title=&quot;这是四级标题&quot;&gt;&lt;/a&gt;这是四级标题&lt;/h4&gt;&lt;h5 id=&quot;这是五级标题&quot;&gt;&lt;a href=&quot;#这是五级标题&quot; class=&quot;headerlink&quot; title=&quot;这是五级标题&quot;&gt;&lt;/a&gt;这是五级标题&lt;/h5&gt;&lt;h6 id=&quot;这是六级标题&quot;&gt;&lt;a href=&quot;#这是六级标题&quot; class=&quot;headerlink&quot; title=&quot;这是六级标题&quot;&gt;&lt;/a&gt;这是六级标题&lt;/h6&gt;&lt;h1 id=&quot;字体&quot;&gt;&lt;a href=&quot;#字体&quot; class=&quot;headerlink&quot; title=&quot;字体&quot;&gt;&lt;/a&gt;字体&lt;/h1&gt;&lt;p&gt;&lt;em&gt;这是倾斜的文字&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这是加粗的文字&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;这是斜体加粗的文字&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;这是加删除线的文字&lt;/del&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="分类1" scheme="http://yoursite.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+      <category term="分类2" scheme="http://yoursite.com/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
+    
+    
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>哪种品牌咖啡粉好喝？</title>
+    <link href="http://yoursite.com/2019/08/29/%E5%93%AA%E7%A7%8D%E5%93%81%E7%89%8C%E5%92%96%E5%95%A1%E7%B2%89%E5%A5%BD%E5%96%9D/"/>
+    <id>http://yoursite.com/2019/08/29/哪种品牌咖啡粉好喝/</id>
+    <published>2019-08-29T08:38:00.000Z</published>
+    <updated>2019-09-04T01:55:31.228Z</updated>
+    
+    <content type="html"><![CDATA[<p>咖啡有很多人都爱喝，而且在闲暇之余冲泡一杯咖啡享受一下慢时光感觉是非常良好的，但是咖啡也分很多种，有大部分人也喜欢自己冲泡咖啡，所以咖啡粉哪个牌子好，哪种品牌咖啡粉好喝是大家想知道的。</p><a id="more"></a><h2 id="咖啡粉牌子"><a href="#咖啡粉牌子" class="headerlink" title="咖啡粉牌子"></a>咖啡粉牌子</h2><p>咖啡原产于埃塞俄比亚全世界所有炎热、潮湿的地区都开辟了咖啡种植园，咖啡成为一种大众化的饮料。但要烧出一壶可口的咖啡是需要许多功夫日，咖啡豆必须磨成细粉。现在很多上班族也会喝咖啡提神，市面上又不同品牌的咖啡粉，那咖啡粉哪个牌子好呢？</p><h2 id="哪种品牌咖啡粉好喝"><a href="#哪种品牌咖啡粉好喝" class="headerlink" title="哪种品牌咖啡粉好喝"></a>哪种品牌咖啡粉好喝</h2><p>哪种品牌咖啡粉好喝，其中就有Illy咖啡粉、Cafetown咖啡粉、柯林咖啡粉、雀巢咖啡粉、星巴克咖啡粉、麦斯威尔咖啡粉、拉瓦萨咖啡粉、中原咖啡粉、还有极睿咖啡粉、UCC咖啡粉，意大利国宝级咖啡illy，据说每一杯都是由50颗优质咖啡豆制成，而每一颗咖啡豆在包装前都需要经过125道检验工序，是国内最好的咖啡。</p><h2 id="咖啡粉价格"><a href="#咖啡粉价格" class="headerlink" title="咖啡粉价格"></a>咖啡粉价格</h2><p>生活节奏日渐加快的今日人们对咖啡粉的热爱有了进一步的提高，咖啡豆经过烘焙，烘焙有很多种，烘焙好，研磨成粉，可直接冲泡，或煮。根据研磨可分为粗研磨、中研磨、细研磨与极细研磨。咖啡粉对身体的皮肤有好处，咖啡可以促进代谢机能，活络消化器官，对便秘有很大功效，而使用咖啡粉还有减肥的作用。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;咖啡有很多人都爱喝，而且在闲暇之余冲泡一杯咖啡享受一下慢时光感觉是非常良好的，但是咖啡也分很多种，有大部分人也喜欢自己冲泡咖啡，所以咖啡粉哪个牌子好，哪种品牌咖啡粉好喝是大家想知道的。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="咖啡粉" scheme="http://yoursite.com/categories/%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    
+    
+      <category term="咖啡粉" scheme="http://yoursite.com/tags/%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    
+      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何煮咖啡粉？</title>
+    <link href="http://yoursite.com/2019/08/29/%E5%A6%82%E4%BD%95%E7%85%AE%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    <id>http://yoursite.com/2019/08/29/如何煮咖啡粉/</id>
+    <published>2019-08-29T08:36:51.000Z</published>
+    <updated>2019-08-29T08:54:28.254Z</updated>
+    
+    <content type="html"><![CDATA[<p>咖啡是现在流行在各个国家的一种饮品，无论是上班族，还是学生，对于咖啡都有着浓烈的热爱。而且咖啡的种类更是多到让人眼花缭乱。比如说摩卡咖啡，卡布奇诺，巴西咖啡等等。很多人往往常喝的都是速溶咖啡，其实速溶咖啡虽然也有咖啡的味道，却远不及自己在家煮的。</p><a id="more"></a><p>很多人因为喜爱咖啡将煮咖啡的一切设备买回来之后，却不知道该怎么去煮。今天就跟大家分享一下如何煮咖啡粉。好让我们爱喝咖啡的人在家就能喝到口感纯正的咖啡。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;咖啡是现在流行在各个国家的一种饮品，无论是上班族，还是学生，对于咖啡都有着浓烈的热爱。而且咖啡的种类更是多到让人眼花缭乱。比如说摩卡咖啡，卡布奇诺，巴西咖啡等等。很多人往往常喝的都是速溶咖啡，其实速溶咖啡虽然也有咖啡的味道，却远不及自己在家煮的。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="咖啡粉" scheme="http://yoursite.com/categories/%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    
+    
+      <category term="咖啡粉" scheme="http://yoursite.com/tags/%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    
+      <category term="制作" scheme="http://yoursite.com/tags/%E5%88%B6%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>咖啡粉介绍</title>
+    <link href="http://yoursite.com/2019/08/29/%E5%92%96%E5%95%A1%E7%B2%89%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://yoursite.com/2019/08/29/咖啡粉介绍/</id>
+    <published>2019-08-29T08:25:15.000Z</published>
+    <updated>2019-08-29T08:54:24.314Z</updated>
+    
+    <content type="html"><![CDATA[<p>咖啡粉是指咖啡豆磨成的粉末。</p><a id="more"></a><p>咖啡原产于埃塞俄比亚。17世纪传入欧洲以前，在北非和西亚被用作饮料已达几百年之久。全世界所有炎热、潮湿的地区都开辟了咖啡种植园，咖啡成为一种大众化的饮料。但要烧出一壶可口的咖啡是需要许多功夫的。咖啡豆必须磨成细粉，最好还要用某种过滤器把咖啡渣留在杯外，也有许多地方的人喜欢喝没有经过过滤的咖啡。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;咖啡粉是指咖啡豆磨成的粉末。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="咖啡粉" scheme="http://yoursite.com/categories/%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    
+    
+      <category term="咖啡粉" scheme="http://yoursite.com/tags/%E5%92%96%E5%95%A1%E7%B2%89/"/>
+    
+      <category term="介绍" scheme="http://yoursite.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>咖啡豆介绍</title>
+    <link href="http://yoursite.com/2019/08/29/%E5%92%96%E5%95%A1%E8%B1%86%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://yoursite.com/2019/08/29/咖啡豆介绍/</id>
+    <published>2019-08-29T07:55:28.000Z</published>
+    <updated>2019-08-29T08:54:19.904Z</updated>
+    
+    <content type="html"><![CDATA[<p>咖啡豆，是指用于制作咖啡的植物果实。广义的讲世界上有2种咖啡豆，阿拉比卡豆和罗伯斯塔豆。咖啡的果实是由两颗椭圆形的种子相对组成的。互相衔接的一面为平坦的接面，称为平豆。但也有由一颗圆形种子组成的，称为圆豆，其味道并无不同。</p><a id="more"></a><p>最早期阿拉伯人食用咖啡的方式是将整颗果实 ( Coffee Cherry ) 咀嚼，以吸取其汁液。其后他们将磨碎的咖啡豆与动物的脂肪混合，来当成长途旅行的体力补充剂，一直到约公元 1,000 年，绿色的咖啡豆，才被拿来在滚水中煮沸成为芳香的饮料。又过了三个世纪，阿拉伯人开始烘焙及研磨咖啡豆，由于古兰经中严禁喝酒，使得阿拉伯人消费大量的咖啡，因而宗教其实也是促使咖啡在阿拉伯世界广泛流行的一个很大的因素。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;咖啡豆，是指用于制作咖啡的植物果实。广义的讲世界上有2种咖啡豆，阿拉比卡豆和罗伯斯塔豆。咖啡的果实是由两颗椭圆形的种子相对组成的。互相衔接的一面为平坦的接面，称为平豆。但也有由一颗圆形种子组成的，称为圆豆，其味道并无不同。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="咖啡豆" scheme="http://yoursite.com/categories/%E5%92%96%E5%95%A1%E8%B1%86/"/>
+    
+    
+      <category term="介绍" scheme="http://yoursite.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+      <category term="咖啡豆" scheme="http://yoursite.com/tags/%E5%92%96%E5%95%A1%E8%B1%86/"/>
+    
+  </entry>
+  
+</feed>
